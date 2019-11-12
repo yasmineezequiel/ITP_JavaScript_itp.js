@@ -1,2 +1,2 @@
-# ITP_Java_itp.js
+# ITP_JavaScript
 JavaScript Exercises 
